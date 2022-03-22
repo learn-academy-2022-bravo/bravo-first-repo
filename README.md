@@ -10,8 +10,8 @@
 
 ### Naming Conventions
 Branches and file names should be in all lowercase letters:
-- Branch name: `topic-initials1-initials2` (ex. arrays-aw-sp)
-- File name: `topic-student1-student2.js` (ex. arrays-austin-sarah.js)
+- Branch name: `topic-initials1-initials2` (ex. github-intro-aw-sp)
+- File name: `topic-student1-student2.md` (ex. github-intro-austin-sarah.md)
 
 
 ### Informational Commands
