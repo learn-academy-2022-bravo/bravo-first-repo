@@ -8,4 +8,9 @@ something something something
 
 BigBodySamxEnbrayer COMING SOON
 
-New album remix 
+New album remix
+
+Don't wanna wake up
+i've been infautated
+the thought of me and you on the moon got me elated 
+the thought of you and that other dude got me frustrated
